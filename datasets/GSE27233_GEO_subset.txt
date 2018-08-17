@@ -1,0 +1,131 @@
+Gene	Fold_Change	Function	Case_Control
+AGAP004399-RA|AGAP004399-RB	-5.05051566	Phosphoglycerate mutase 1	Case_Control
+AGAP006582-RD	-5.0266085	Acp (Dottorini et al, 2007)	Case_Control
+AGAP005558-RA	-4.929564	Peptidase_M16_C	Case_Control
+AGAP001076-RD|AGAP001076-RA|AGAP001076-RC|AGAP001076-RB	-4.8163137	Cytochrome P450	Case_Control
+AGAP008311-RA	-4.6950967	Acylphosphatase	Case_Control
+AGAP008727-RA	-4.64348564	Cytochrome c oxidase subunit IV	Case_Control
+AGAP001969-RA	-4.585643767	Ubiquitin	Case_Control
+AGAP007902-RA	-4.531907	N1221-like	Case_Control
+AGAP009361-RA	-4.5125656	Acp (Dottorini et al, 2007)	Case_Control
+AGAP003777-RA|AGAP003777-RB	-4.4910817	Unknown	Case_Control
+AGAP003774-RA	-4.3954614	Unknown	Case_Control
+AGAP006400-RA	-4.36362905	Alkaline phosphatase	Case_Control
+AGAP012681-RA|AGAP009352-RA	-4.266063	Acp (Dottorini et al, 2007)	Case_Control
+AGAP009359-RA	-4.1679235	Acp (Dottorini et al, 2007)	Case_Control
+AGAP003371-RA	-3.7695706	Unknown	Case_Control
+AGAP003749-RA	-3.735789	Lipase - Acp (Dottorini et al, 2007)	Case_Control
+AGAP006589-RB|AGAP006589-RA	-3.703643033	Trypsin Inhibitor like cysteine rich domain	Case_Control
+AGAP007621-RB|AGAP007621-RC|AGAP007621-RA	-3.703612378	Cytochrome c oxidase subunit VIIc	Case_Control
+AGAP001603-RA	-3.61561702	Acp as identified in this work	Case_Control
+AGAP012823-RA|AGAP003367-RA	-3.60873367	Ribosomal protein/NADH  dehydrogenase domain	Case_Control
+AGAP003030-RA	-3.600799	Dehydrogenase, E1 component	Case_Control
+AGAP007975-RA	-3.5486937	2-oxoacid_DH_actylTfrase	Case_Control
+AGAP003586-RA	-3.44210785	Mitochondrial substrate carrier	Case_Control
+AGAP011484-RA|AGAP011484-RB	-3.406436561	Unknown	Case_Control
+AGAP012891-RA|AGAP004583-RA	-3.3969505	Heat shock protein 70	Case_Control
+AGAP005399-RA	-3.3895104	Proline-rich region	Case_Control
+AGAP011130-RA	-3.38461625	Deoxynucleoside kinase	Case_Control
+AGAP006584-RA	-3.3799777	Trypsin Inhibitor like cysteine rich domain- Acp this work	Case_Control
+AGAP006099-RA	-3.37347746	Peptidase M16, C-terminal / Metalloenzyme, LuxS/M16 peptidase-like, metal-binding	Case_Control
+AGAP000112-RA	-3.3636081	Nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase	Case_Control
+AGAP004400-RA|AGAP004400-RB	-3.362907956	FAS1 domain	Case_Control
+AGAP004157-RA	-3.3399681	Major facilitator superfamily MFS-1 	Case_Control
+AGAP013092-RA	-3.339585	Cytochrome c oxidase, subunit VIb	Case_Control
+AGAP009526-RA	-3.3344312	Cytochrome c oxidase, subunit VIIa	Case_Control
+AGAP007768-RA	-3.33007165	Cytochrome c oxidase subunit VIc	Case_Control
+AGAP009874-RA	-3.3281786	Insect cuticle protein	Case_Control
+AGAP010912-RA|AGAP010914-RA	-3.2135787	Carboxylesterase, type B	Case_Control
+AGAP000526-RA	-3.16839315	RNA recognition motif, RNP-1- Acp as identified in this work	Case_Control
+AGAP008653-RA	-3.16715132	NADH:ubiquinone oxidoreductase, 17.2 kD subunit	Case_Control
+AGAP006879-RA	-3.013789217	ATPase, F0 complex, subunit E, mitochondrial	Case_Control
+AGAP007118-RA	-3.002825	Protein-tyrosine phosphatase	Case_Control
+AGAP007549-RA	-2.9922824	Major royal jelly-related	Case_Control
+AGAP005940-RB|AGAP005940-RA	-2.981893	Osteopontin	Case_Control
+AGAP012418-RA	-2.9802659	Unknown	Case_Control
+AGAP001257-RA|AGAP001257-RB	-2.9775847	UTP--glucose-1-phosphate uridylyltransferase	Case_Control
+AGAP001676-RA	-2.9767067	Actin/actin-like	Case_Control
+AGAP006541-RB|AGAP006541-RA	-2.9622197	Pyridoxal phosphate-dependent transferase, major region	Case_Control
+AGAP008904-RA	-2.9482157	Pyridoxal phosphate-dependent decarboxylase	Case_Control
+AGAP010792-RA	-2.94267285	Male sterility, NAD-binding	Case_Control
+AGAP005621-RA	-2.93513205	ETC complex I subunit	Case_Control
+AGAP010672-RA	-2.9249264	Succinate dehydrogenase, cytochrome b subunit	Case_Control
+AGAP000669-RA	-2.919004167	Acp as identified in this work	Case_Control
+AGAP000520-RA	-2.8985326	Acyltransferase 3	Case_Control
+AGAP003795-RA	-2.895701425	Acp as identified in this work	Case_Control
+AGAP005134-RA	-2.855424857	ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain	Case_Control
+AGAP011159-RA	-2.838560043	Cytochrome c oxidase,	Case_Control
+AGAP011515-RA|AGAP011516-RA|AGAP011514-RA	-2.7320994	Actin-like	Case_Control
+AGAP000170-RA	-2.73117002	NADH:ubiquinone oxidoreductase-like, 20 kDa subunit	Case_Control
+AGAP006588-RB	-2.72204886	Unknown	Case_Control
+AGAP007827-RA	-2.611135833	Enolase	Case_Control
+AGAP007926-RA	-2.6047328	Cleft lip and palate transmembrane 1	Case_Control
+AGAP004596-RA	-2.596493729	Pyruvate kinase	Case_Control
+AGAP001329-RA	-2.4429616	Cuticular protein	Case_Control
+AGAP002751-RA	-2.4407334	Leucine-rich repeats (LRR)	Case_Control
+AGAP003776-RA	-2.437773	Unknown	Case_Control
+AGAP003832-RA|AGAP003833-RA	-2.4365623	Glutamine amidotransferases	Case_Control
+AGAP010337-RA	-2.434188045	UcrQ	Case_Control
+AGAP007786-RA	-2.433174067	Isocitrate/isopropylmalate dehydrogenase	Case_Control
+AGAP001211-RA	-2.3939567	Ras GTPase	Case_Control
+AGAP008436-RA	-2.3908328	ABC_TM_transpt	Case_Control
+AGAP011829-RA	-2.390099676	Acp as identified in this work	Case_Control
+AGAP001570-RA	-2.38826525	HMW glutenin	Case_Control
+AGAP002732-RA	-2.2478187	Gram	Case_Control
+AGAP008359-RA	-2.13565	Sodium/solute symporter	Case_Control
+AGAP003541-RA|AGAP003541-RB|AGAP003541-RC	-2.134779	Translation elongation factor EFTu/EF1A	Case_Control
+AGAP001312-RA|AGAP001312-RB	-2.132683643	Succinyl-CoA synthetase-like	Case_Control
+AGAP008329-RA	2.0147135	Ribosomal protein S7	Case_Control
+AGAP003161-RA	2.0152087	Unknown	Case_Control
+AGAP004637-RA	2.017449	The C2H2  zinc finger domain	Case_Control
+AGAP002521-RA|AGAP002521-RB	2.0506852	DH_sc/Rdtase_SDR	Case_Control
+AGAP002919-RA	2.0509121	Ribosomal_S6e	Case_Control
+AGAP000570-RA	2.053004	Unknown	Case_Control
+AGAP006170-RA	2.1004255	Unknown	Case_Control
+AGAP001548-RC|AGAP001548-RA|AGAP001548-RB	2.2790186	ER_stress-assoc_Ramp4	Case_Control
+AGAP011478-RA	2.2792078	Actin/actin-like	Case_Control
+AGAP011503-RA	2.279603933	Unknown	Case_Control
+AGAP011696-RA	2.3307145	DNA/RNA_non-sp_Endonuclease	Case_Control
+AGAP007505-RA	2.33209926	Peptidase S10, serine carboxypeptidase	Case_Control
+AGAP006710-RA|AGAP006711-RA	2.332945688	Peptidase S1 and S6, chymotrypsin/Hap (signal peptide)	Case_Control
+AGAP011305-RA	2.33427775	Alkaline_phosphatase	Case_Control
+AGAP000167-RA	2.3354244	Perilipin	Case_Control
+AGAP004936-RA	2.3391883	EGF-like calcium-binding	Case_Control
+AGAP006664-RA	2.343905625	Unknwon	Case_Control
+AGAP002235-RA	2.47314875	Zinc finger, GATA-type	Case_Control
+AGAP006422-RA	2.4998243	Glycoside hydrolase, family 1 	Case_Control
+AGAP012370-RA	2.5093958	Unknown	Case_Control
+AGAP000911-RA	2.6487272	Unknown	Case_Control
+AGAP006769-RA	2.67941135	Unknwon	Case_Control
+AGAP001595-RA	2.7935835	Ribosomal_S14	Case_Control
+AGAP011512-RA	2.798736	Lipase_GDSL	Case_Control
+AGAP005838-RA	2.8002741	Unknown	Case_Control
+AGAP002929-RA	2.824674267	Znf_PHD-finger	Case_Control
+AGAP011939-RA	2.8448493	Glyco_hydro_13_cat_dom	Case_Control
+AGAP003350-RA|AGAP003350-RB	2.8546038	Phosphoenolpyruvate carboxykinase	Case_Control
+AGAP011223-RA	2.882717	Fibrinogen, alpha/beta/gamma chain, C	Case_Control
+AGAP009098-RA	2.9302526	Transglutaminase (Quest a\8F vicino all 9099 che \8F quella desxritta nel paper catteruccia)	Case_Control
+AGAP012230-RA	2.9360993	Glycoside hydrolase family 13	Case_Control
+AGAP006258-RA	2.94408442	Tyrosinase_Immunoglobulin E-set	Case_Control
+AGAP006077-RB|AGAP006077-RA	2.9643562	Unknown	Case_Control
+AGAP012384-RA	3.0063217	Leu-rich_rpt	Case_Control
+AGAP005848-RA	3.0199246	Fibrinogen_a/b/g_C	Case_Control
+AGAP013509-RA	3.41434465	Carboxylesterase, type B	Case_Control
+AGAP004887-RA	3.4871492	Ribosomal_S17e	Case_Control
+AGAP000693-RA	3.4995914	Cecropin	Case_Control
+AGAP000162-RA	3.6161358	Cysteine synthase/cystathionine beta-synthase P-phosphate-binding site	Case_Control
+AGAP001006-RA	3.7264502	Chitin binding protein, peritrophin-A	Case_Control
+AGAP002518-RA	3.7416203	Aldehyde_DH_dom	Case_Control
+AGAP009826-RA	3.785172167	Protein-tyrosine phosphatase	Case_Control
+AGAP001966-RA	3.9023933	Na/solute_symporter	Case_Control
+AGAP009049-RA	3.9103181	Glycoside hydrolase, family 18, catalytic domai	Case_Control
+AGAP013400-RA|AGAP013189-RA	3.9613771	Lipocln_cytosolic_FA-bd	Case_Control
+AGAP000304-RA	4.0206914	Tsg	Case_Control
+AGAP002851-RA	4.137569267	MD-2-related lipid-recognition_Immunoglobulin E-set	Case_Control
+AGAP005808-RA	4.213054125	Tubulin binding cofactor A, incomplete	Case_Control
+AGAP010772-RA	4.4463162	Fibrinogen_a/b/g_C	Case_Control
+AGAP012532-RA	4.56939662	Unknown	Case_Control
+AGAP010510-RA	4.570145	Tyrosinase_Immunoglobulin E-set	Case_Control
+AGAP004978-RA	4.5762577	Tyrosinase	Case_Control
+AGAP010154-RA	4.5975575	Unknown	Case_Control
+AGAP009054-RA	4.633134667	LPS-induced tumor necrosis factor alpha factor	Case_Control
